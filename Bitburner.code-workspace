@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"bitburner.authToken": "1rtb6bqLf4HTf6hkTwxogIPwiAkUU8cVqQGe6K4MSTBG/8nhlmstA+sXlDKt28AX",
+		"bitburner.fileWatcher.enable": true,
+		"bitburner.showPushSuccessNotification": true,
+		"bitburner.showFileWatcherEnabledNotification": true
+	}
+}
